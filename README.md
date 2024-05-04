@@ -1,6 +1,13 @@
 This is a fork of `yargs` with just enough modifications to be conveniently usable in a BitBurner
 Typescript project.
 
+Installing:
+
+```
+pnpm install --save @bitburner-devops/yargs
+pnpm add --save-dev @types/bitburner-devops__yargs@npm:@types/yargs
+```
+
 Original README follows.
 
 ---
