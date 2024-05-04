@@ -1,6 +1,6 @@
 {
   "name": "@bitburner-devops/yargs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "yargs patched to work in BitBurner",
   "main": "./index.cjs",
   "exports": {
