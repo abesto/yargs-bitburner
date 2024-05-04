@@ -42,8 +42,8 @@
     "locales",
     "LICENSE",
     "lib/platform-shims/*.mjs",
-    "!*.d.ts",
-    "!**/*.d.ts"
+    "*.d.ts",
+    "**/*.d.ts"
   ],
   "dependencies": {
     "cliui": "^7.0.2",

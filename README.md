@@ -3,9 +3,17 @@ Typescript project.
 
 Installing:
 
-```
+```bash
 pnpm install --save @bitburner-devops/yargs
 pnpm add --save-dev @types/bitburner-devops__yargs@npm:@types/yargs
+```
+
+## `@types/yargs` is old
+
+If you care about typing, and use moderately advanced type magic, you may have to explicitly ignore mismatches, for example:
+
+```js
+yargs() as unknown as Argv<CliContext>
 ```
 
 Original README follows.
