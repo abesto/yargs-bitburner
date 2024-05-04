@@ -664,6 +664,7 @@ export class YargsInstance {
     this[kPopulateParserHintSingleValueDictionary](
       this.demandOption.bind(this),
       'demandedOptions',
+      /* @ts-ignore */
       keys,
       msg
     );
