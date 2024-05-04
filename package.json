@@ -99,7 +99,6 @@
     "type": "git",
     "url": "https://github.com/abesto/yargs-bitburner.git"
   },
-  "homepage": "https://yargs.js.org/",
   "keywords": [
     "argument",
     "args",
