@@ -1,6 +1,6 @@
 {
   "name": "@bitburner-devops/yargs",
-  "version": "17.7.2",
+  "version": "0.0.0",
   "description": "yargs patched to work in BitBurner",
   "main": "./index.cjs",
   "exports": {
@@ -111,7 +111,6 @@
     "type": "git",
     "url": "https://github.com/abesto/yargs-bitburner.git"
   },
-  "homepage": "https://yargs.js.org/",
   "keywords": [
     "argument",
     "args",
